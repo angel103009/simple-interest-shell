@@ -1,9 +1,13 @@
-# Simple Interest Calculator
+## Calculadora de Interés Simple
 
-Un script Bash para calcular interés simple dado:
+Este script Bash calcula el interés simple dado:
+
 - **p**: monto principal  
 - **r**: tasa anual de interés (%)  
 - **t**: periodo en años  
+
+### Fórmula
+simple interest = p * t * r / 100
 
 ## Uso
 

@@ -1,6 +1,3 @@
-# Guía de Contribución
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-1. Abre un issue describiendo tu cambio.
-2. Crea una rama con prefijos: `feat/`, `fix/`, `docs/`.
-3. Sigue el estilo de commit: `<tipo>(<área>): descripción breve`.
-4. Haz PR a `main`, asigna reviewers.
+
